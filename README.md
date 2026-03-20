@@ -24,7 +24,7 @@ This repository contains semester-wise and subject-wise **MST (Mid Semester Test
 
 | Subject                            | MST | End Semester  |
 | ---------------------------------- | --- | ------------- |
-| Applied Physics                    | ❌  |https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Applied%20Physics/End-Sem/SVVV_AP_Sem2_EndSem_2022.pdf.pdf|
+| Applied Physics                    | ❌  |[📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Applied%20Physics/End-Sem/SVVV_AP_Sem2_EndSem_2022.pdf.pdf)|
 | Communication Skills               | ✅  | ✅           |
 | Computer System Organization       | ✅  | ✅           |
 | Data Fundamentals                  | ✅  | ✅           |
