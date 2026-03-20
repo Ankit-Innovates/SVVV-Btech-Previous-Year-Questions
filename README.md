@@ -47,11 +47,12 @@ This repository contains semester-wise and subject-wise **MST (Mid Semester Test
 
 ---
 
-## 📂 Structure
+## 🧭 How to Use
 
-Semester → Subject → Exam Type → Year
-
----
+1. Select your semester  
+2. Choose your subject  
+3. Open MST or End Semester folder  
+4. Download the required paper
 
 ## 🔍 Keywords
 
