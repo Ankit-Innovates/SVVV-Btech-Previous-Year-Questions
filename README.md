@@ -25,12 +25,12 @@ This repository contains semester-wise and subject-wise **MST (Mid Semester Test
 | Subject                            | MST | End Semester  |
 | ---------------------------------- | --- | ------------- |
 | Applied Physics                    | ❌  |[📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Applied%20Physics/End-Sem/SVVV_AP_Sem2_EndSem_2022.pdf.pdf)|
-| Communication Skills               | ✅  | ✅           |
-| Computer System Organization       | ✅  | ✅           |
-| Data Fundamentals                  | ✅  | ✅           |
-| Mathematics II                     | ✅  | ✅           |
-| Object Oriented Programming        | ❌  | ✅           |
-| Principles of Programming Language | ✅  | ✅           |
+| Communication Skills               |[📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Communication%20Skills/MST/SVVV_CS_Sem2_MidSem_2022.pdf.pdf)|[📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Communication%20Skills/End-Sem/SVVV_CS_Sem2_EndSem_2022.pdf.pdf)|
+| Computer System Organization       | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Computer%20System%20Organization/MST/SVVV_CSO_Sem2_MidSem_2022.pdf.pdf)  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Computer%20System%20Organization/End-Sem/SVVV_CSO_Sem2_EndSem_2022.pdf.pdf)           |
+| Data Fundamentals                  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Data%20Fundamentals/MST/SVVV_DF_Sem2_MidSem_2022.pdf.pdf)  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Data%20Fundamentals/End-Sem/SVVV_DF_Sem2_EndSem_2022.pdf.pdf)           |
+| Mathematics II                     | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Mathematics%20II/MST/SVVV_M2_Sem2_MidSem_2022.pdf.pdf)  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Mathematics%20II/End-Sem/SVVV_M2_Sem2_EndSem_2022.pdf.pdf)           |
+| Object Oriented Programming        | ❌  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Object%20Oriented%20Programming/End-Sem/SVVV_OOP_Sem2_EndSem_2022.pdf.pdf)           |
+| Principles of Programming Language | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Principles%20of%20Progamming%20Language/MST/SVVV_PPL_Sem2_MidSem_2022.pdf.pdf)  | [📄](https://github.com/Ankit-Innovates/SVVV-Btech-Previous-Year-Questions/blob/main/Semester-2/Principles%20of%20Progamming%20Language/End-Sem/SVVV_PPL_Sem2_EndSem_2022.pdf.pdf)           |
 
 ---
 
